@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local experiment databases/logs
+*.sqlite
+*.sqlite3
+*.db
+*.log
+logs/
+exports/
+results_raw/
+participant_data/
+session_data/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

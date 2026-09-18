@@ -1,0 +1,13 @@
+dataset,model,mean_mae_rank_lower_better,mean_spearman_rank_lower_better,combined_rank_score_lower_better
+balanced_24,Ridge,1.5,1.5,1.5
+balanced_24,SVR_RBF,3.25,1.75,2.5
+balanced_24,GRU_Attention,3.75,4.0,3.875
+balanced_24,CNN1D,4.0,4.0,4.0
+balanced_24,LSTM_Attention,4.5,3.75,4.125
+balanced_24,Mean,4.0,6.0,5.0
+valid_32,Ridge,1.75,1.75,1.75
+valid_32,SVR_RBF,2.75,1.5,2.125
+valid_32,LSTM_Attention,4.25,3.0,3.625
+valid_32,GRU_Attention,4.0,4.0,4.0
+valid_32,CNN1D,4.25,4.75,4.5
+valid_32,Mean,4.0,6.0,5.0

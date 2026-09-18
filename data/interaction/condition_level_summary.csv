@@ -1,0 +1,4 @@
+condition,description,n_participants,mean_final_rule_distance,mean_task_time_seconds,mean_satisfaction,mean_control,recommendation_acceptance_rate
+A,free_design_no_guidance,18,0.670,53.3,3.06,3.72,
+B,exploratory_rule_cues,18,0.553,75.9,3.28,3.56,0.583
+C,refinement_rule_cues_with_target_information,18,0.468,77.6,3.33,3.50,0.583

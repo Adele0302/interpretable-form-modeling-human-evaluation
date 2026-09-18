@@ -1,0 +1,4 @@
+group,n_samples,contour_points_per_sample,width_profile_levels
+Ancient,165,300,240
+Modern,60,300,240
+Total,225,300,240
